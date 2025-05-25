@@ -25,6 +25,8 @@ print(bin(a)
 ## Result
 Thus ,the program is executed successfully.
 
+---
+
 # 2. Functions in Python: Modulo Calculator
 
 ## 🎯 Aim
@@ -51,6 +53,8 @@ b = int(input())
 ## Result
 Thus,the program is executed suucessfully.
 
+---
+
 # 3. Lambda Function in Python: Addition of Two Numbers
 
 ## 🎯 Aim
@@ -74,13 +78,15 @@ print(f(a,b))
 ## Result
 Thus,the program is executed successfully.
 
-# 4. 🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
 ---
+
+# 4. 🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
+
 ## 🎯 Aim
 
 To write a Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user.
 
----
+
 
 ## 🧠 Algorithm
 
@@ -117,6 +123,8 @@ triangle(n)
 
 ## Result
 Thus,the program is executed successfully.
+
+---
 
 ## 5. Loops in Python: Palindrome Number Checker
 
